@@ -1,0 +1,15 @@
+{
+  "requested_repository": "tau/multi_news",
+  "actual_repository": "mehdielg/multi_news",
+  "reason": "tau/multi_news returned a non-UTF-8 Google Drive response on 2026-10-23",
+  "split": "train",
+  "stream_position_zero_based": 32766,
+  "article_word_counts": [
+    333,
+    965,
+    540,
+    349,
+    826
+  ],
+  "summary_word_count": 147
+}

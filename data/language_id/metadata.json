@@ -1,0 +1,25 @@
+{
+  "repository": "ymoslem/Tatoeba-Translations",
+  "revision": "c313a0934b5e2f50f78230fdedfe63ea36e1a05f",
+  "source_codes": [
+    "kaz",
+    "rus",
+    "eng",
+    "spa",
+    "por",
+    "fra",
+    "deu"
+  ],
+  "target_codes": [
+    "kk",
+    "ru",
+    "en",
+    "es",
+    "pt",
+    "fr",
+    "de"
+  ],
+  "per_language": 700,
+  "rows": 4900,
+  "duplicates_after_casefold": 0
+}
